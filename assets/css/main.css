@@ -2130,6 +2130,35 @@ input, select, textarea {
 			margin-right: 1em;
 		}
 
+	#logomain{
+		position: relative;
+		margin: 1.75em 1.5em 1.5em 1.5em;
+		min-height: 48px;
+		cursor: default;
+	}
+
+		#logomain h1 {
+			position: relative;
+			color: #fff;
+			font-weight: 600;
+			font-size: 1em;
+			line-height: 1em;
+		}
+
+		#logomain p {
+			position: relative;
+			display: block;
+			font-size: 1em;
+			color: rgba(255, 255, 255, 0.5);
+			line-height: 2em;
+			margin-right: 1em;
+		}
+
+		#logomain .image {
+			float: left;
+			margin-right: 1em;
+		}
+
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
